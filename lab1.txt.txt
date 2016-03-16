@@ -3,7 +3,18 @@ Seja bem vindo!
 Primeira Laboratorio
 
 
-Hoje é quinta-feira.
+<<<<<<< HEAD
+Hoje é quarta-feira.
 
 
-Meu nome é Débora
+Meu nome é Débora Thais de Mathos Souza
+=======
+Hoje é quarta-feira.
+>>>>>>> parent of a1cf31c... commit3
+
+
+Aff, deu errado
+
+
+aaaaaaaaaa
+
